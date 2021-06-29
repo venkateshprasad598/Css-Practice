@@ -1,0 +1,83 @@
+.Messi{
+    /* background: linear-gradient(to bottom, rgba(94, 55, 33, 0.863), rgba(255, 0, 0, 0.733)); */
+    background: linear-gradient(to bottom, rgba(245, 12, 12, 0.945), rgba(177, 57, 57, 0.863));
+    /* font-family: 'Yellowtail', cursive; */
+    /* background: radial-gradient(red, green */
+    font-family: 'Source Serif Pro', serif;
+}
+
+ul{
+    background-color: white;
+    color: rgb(241, 45, 19);
+}
+
+h1:hover{
+    color: white;
+}
+
+.About:hover{
+color: white;
+}
+
+p:hover{
+    color: white;
+}
+
+.Messi-one{
+    height: 500px;
+    width: 3000px;
+    background-image: url(/images/Barca.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.Messi-two{
+    height: 1000px;
+    width: 3000px;
+background-image: url(/images/Messi-1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+box-sizing: border-box;
+border: 10px solid blue;
+padding: 10px;
+text-align: center;
+color: white;
+}
+
+/* Text and Fonts */
+
+.Text-one{
+    width: 50%;
+    height: 300px;
+    background-color: white;
+    font-family: cursive;
+    /* display: inline; */
+    /* visibility: hidden; */
+
+    /* margin: 10px;
+    padding: 10px; */
+}
+
+.Text-two{
+    height: 300px;
+    width: 50%;
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* display: inline-block; */
+    font-weight: 100;
+    /* margin: 10px;
+    padding: 10px; */
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    line-height: 23px;
+    font-size: 20px;
+    font-family: 'Jomhuria', cursive;
+
+}
+
+
